@@ -11,6 +11,7 @@ h1{
 
 section{
     display: flex;
+    margin-bottom: 130px;
 }
 
 .banner{
@@ -32,4 +33,9 @@ section{
     border-radius: 10px;
     color: white;
     font-weight: 800;
+}
+.dream{
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
 }
